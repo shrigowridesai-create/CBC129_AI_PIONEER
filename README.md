@@ -208,7 +208,3 @@ Check the backend CORS configuration if browser requests are blocked.
 - Do not commit secrets or personal credentials.
 - Ensure required model files are included in the repository or provide instructions to obtain them.
 - The frontend's booking and persistence functionality should be verified against the backend before assuming all data is stored in the database.
-
-## License
-
-Add your project's license here if applicable.
